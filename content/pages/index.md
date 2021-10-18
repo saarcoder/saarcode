@@ -1,14 +1,10 @@
 ---
-title: We build websites.
+title: Webseiten. Für Sie.
 subtext_html: >-
-  This is the <strong>Urban</strong> template from <a
-  href="https://cloudcannon.com/">CloudCannon</a>. Urban is a strong foundation
-  for the web presence of your agency.
+  SSG:  <strong>SvelteKit</strong>. Plattform: <strong>CloudCannon</strong>. Template: <strong>Urban</strong>.
 description:
-portfolio_heading: Some of our work
+portfolio_heading: Portfolio
 portfolio_description_html: >-
-  We take pride in our previous work and our happy customers. We cater to any
-  sector to boost business and increase exposure.
-portfolio_call_to_action: View Full Portfolio
+  Unser Ziel: 100% Zufriedene Kunden.
+portfolio_call_to_action: Portfolio ansehen
 ---
-

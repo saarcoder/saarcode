@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Pages",
+		"title": "Seiten",
 		"links": [
 			{
 				"name": "Home",
@@ -15,40 +15,28 @@
 				"link": "/blog"
 			},
 			{
-				"name": "About",
-				"link": "/about"
+				"name": "Saarcode",
+				"link": "/saarcode"
 			},
 			{
-				"name": "Contact",
-				"link": "/contact"
+				"name": "Kontakt",
+				"link": "/kontakt"
 			}
 		]
 	},
 	{
-		"title": "Social",
+		"title": "Netzwerke",
 		"links": [
 			{
-				"name": "Facebook",
-				"link": "https://facebook.com/cloudcannon/",
-				"social_icon": "Facebook",
-				"new_window": true
-			},
-			{
 				"name": "Twitter",
-				"link": "https://twitter.com/cloudcannon/",
+				"link": "https://twitter.com/alex_kimoto",
 				"social_icon": "Twitter",
 				"new_window": true
 			},
 			{
-				"name": "Instagram",
-				"link": "https://instagram.com/",
-				"social_icon": "Instagram",
-				"new_window": true
-			},
-			{
-				"name": "LinkedIn",
-				"link": "https://linkedin.com/company/cloud-cannon",
-				"social_icon": "LinkedIn",
+				"name": "GitHub",
+				"link": "https://github.com/saarcoder",
+				"social_icon": "GitHub",
 				"new_window": true
 			}
 		]

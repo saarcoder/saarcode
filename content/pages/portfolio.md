@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-heading: Our Work
-subtitle: See some of our proud customers with exemplary results.
+heading: Nehmen Sie im Fahrersitz Platz
+subtitle: Verabschieden Sie sich von langwierigen Mitarbeiter-Einweisungen in komplexe Backend-Systeme und der Angst vor Datenbank-Hackern.
 description:
 ---

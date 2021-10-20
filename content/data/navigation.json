@@ -9,12 +9,12 @@
 			"link": "/blog/"
 		},
 		{
-			"name": "About",
-			"link": "/about/"
+			"name": "Saarcode",
+			"link": "/saarcode/"
 		},
 		{
-			"name": "Contact",
-			"link": "/contact/"
+			"name": "Kontakt",
+			"link": "/kontakt/"
 		}
 	]
 }

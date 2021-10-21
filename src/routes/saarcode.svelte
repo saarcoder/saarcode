@@ -11,10 +11,23 @@
 </script>
 
 <script>
+  import { onDestroy, onMount } from "svelte";
+  import {
+    onCloudCannonChanges,
+    stopCloudCannonChanges,
+  } from "@cloudcannon/svelte-connector";
+
   import Page from "$lib/components/Page.svelte";
   import AuthorCard from "$lib/components/AuthorCard.svelte";
 
   export let staffMembers, pageDetails;
+
+  onMount(async () => {
+    onCloudCannonChanges((newProps) => (pageDetails = newProps));
+  });
+  onDestroy(async () => {
+    stopCloudCannonChanges();
+  });
 
   let topStaff = staffMembers.slice(0, 2);
 </script>

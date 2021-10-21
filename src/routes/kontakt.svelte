@@ -105,7 +105,7 @@
               encodeURIComponent(pageDetails.map.address)}
             rel="noreferrer"
           >
-            {@html pageDetails.map.address.replace(/,/g, ",</br>")}
+            {@html pageDetails.map.address.replace(/,/g, "</br>")}
           </a>
         </address>
       </div>

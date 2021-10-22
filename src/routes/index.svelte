@@ -81,11 +81,12 @@
         </ul>
       </div>
       <div>
-        <h3>Latest software, greatest perfomance</h3>
+        <h3>Neueste Software, beste Perfomance</h3>
         <p>
-          As a new agency we get reap the benefits of the latest and greatest.
-          We build our websites with the most up to date technology. This
-          ensures your website is fast, efficient and reliable for many years.
+          Als junge Agentur können wir uns ganz auf die neuesten und
+          performantesten Technologien fokussieren, um Webseiten für Sie zu
+          schreiben. Dadurch sind Ihre Webseiten von Anfang an schnell und
+          schlank.
         </p>
       </div>
     </div>

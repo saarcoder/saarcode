@@ -1,67 +1,67 @@
 # Urban
 
-Web Agency themed business template for SvelteKit. Browse through a [live demo](https://dry-duck.cloudvent.net).
-Increase the web presence of your agency with this configurable theme.
+Template für SvelteKit-Codebase mit Agentur-Stil. [Live-Demo](https://dry-duck.cloudvent.net) hier.
+Verbessern Sie Ihre Web-Präsenz mit diesem konfigurierbaren Theme.
 
 ![Urban template screenshot](_screenshot.png)
 
-Urban was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
+Urban wurde von [CloudCannon](https://cloudcannon.com/) erstellt, einer Jamstack-Plattform für Teams.
 
-Find more templates, themes and tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Weitere Templates, Themes und Tutorials finden Sie in der [CloudCannon Academy](https://learn.cloudcannon.com/).
 
 ## Features
 
-- FrontMatter live editing
-- Contact form
-- Pre-built pages
-- Pre-styled components
-- Staff and author system
-- Configurable footer
-- Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-- RSS/Atom feed
-- SEO tags
+- FrontMatter Live-Editing
+- Kontakt-Formular
+- Vorgefertigte Beispielseiten
+- Vorgestylte Komponenten
+- Team und Autoren-System
+- Konfigurierbarer Footer
+- Optimiert für Editing mit [CloudCannon](https://cloudcannon.com/)
+- RSS/Atom-Feed
+- SEO TagsSetup
 - Google Analytics
 
-## Setup
+## Einrichtung
 
-1. Add your site and author details in `data/seo.json`.
-2. Add your Google Analytics key to `data/site.json`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or SvelteKit locally).
+1. Fügen Sie Ihre Domain und Autorendetails in `data/seo.json` hinzu.
+2. Ergänzen Sie Ihren Google Analytics-Schlüssel in `data/site.json`.
+3. Lernen Sie den Workflow kennen und sehen Sie Ihren Seiten-Output (direkt in [CloudCannon](https://app.cloudcannon.com/) oder lokal in Ihrer SvelteKit-Instanz).
 
-## Develop
+## Entwickeln
 
-Urban was built with [SvelteKit](https://kit.svelte.dev/)
+Urban wurde mit [SvelteKit](https://kit.svelte.dev/) erstellt. Installieren Sie Abhängigkeiten und starten Sie eine Entwicklungsinstanz:
 
 ```bash
 $ npm install
 $ npm run dev
 ```
 
-## Editing
+## Editieren
 
-Urban is already optimised for adding, updating and removing pages, staff, posts, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+Urban ist bereits für das Ergänzen, Updaten und Entfernen von Seiten, Mitgliedern, Beiträgen und Unternehmensdetails sowie Footer-Elementen in [CloudCannon](https://app.cloudcannon.com/) optimiert.
 
-### Posts
+### Beiträge
 
-- Add, update or remove a post in the _Posts_ collection.
-- The **Staff Author** field links to members in the **Staff** collection.
-- Change the defaults when new posts are created in `content/posts/_defaults.md`.
+- Ergänzen, updaten oder entfernen Sie Beiträge in der _Posts_ collection.
+- Das Feld **Staff Author** verlinkt zu Mitgliedern in der **Staff** collection.
+- Ändern Sie die Standardeinträge in `content/posts/_defaults.md`, wenn Sie neue Beiträge verfassen.
 
-### Contact Form
+### Kontakt-Formular
 
-- Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-- Sends email to the address listed in company details.
+- Vorkonfiguriert für [CloudCannon](https://app.cloudcannon.com/), jedoch mit wenigen Änderungen auch mit anderen Providern nutzbar (z.B. [FormSpree](https://formspree.io/)).
+- Versendet E-mails an die in company details angegebene E-Mail-Adresse.
 
-### Staff
+### Teammitglieder
 
-- Reused around the site to save multiple editing locations.
+- Werden an mehreren Stellen auf der Seite eingefügt, um Doppel-Editieren zu vermeiden.
 
 ### Footer
 
-- Exposed as a data file to give clients better access.
-- Set in the _Data_ / _Footer_ section.
+- Inhalte als Daten-Datei zur Verfügung gestellt, um Kunden leichteren Zugang zu verschaffen.
+- Eingerichtet unter _Data_ / _Footer_.
 
-### Company details
+### Firmen-Details
 
-- Reused around the site to save multiple editing locations.
-- Set in the _Data_ / _Company_ section.
+- An mehreren Stellen auf der Seite eingefügt, um Doppel-Editieren zu vermeiden.
+- Eingerichtet unter _Data_ / _Company_.

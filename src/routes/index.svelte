@@ -84,9 +84,9 @@
         <h3>Neueste Software, beste Perfomance</h3>
         <p>
           Als junge Agentur können wir uns ganz auf die neuesten und
-          performantesten Technologien fokussieren, um Webseiten für Sie zu
-          schreiben. Dadurch sind Ihre Webseiten von Anfang an schnell und
-          schlank.
+          performantesten Technologien fokussieren. Entdecken auch Sie die
+          Vorteile einer schlanken, modularen Architektur und machen Sie
+          Cloud-Editing zu einem Kreativ-Erlebnis.
         </p>
       </div>
     </div>

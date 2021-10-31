@@ -38,6 +38,12 @@
 				"link": "https://github.com/saarcode",
 				"social_icon": "GitHub",
 				"new_window": true
+			},
+			{
+				"name": "SoundCloud",
+				"link": "https://soundcloud.com/hintergrund-musik",
+				"social_icon": "SoundCloud",
+				"new_window": true
 			}
 		]
 	}

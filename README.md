@@ -3,7 +3,7 @@
 Template für SvelteKit-Codebase mit Agentur-Stil. [Live-Demo](https://dry-duck.cloudvent.net) hier.
 Verbessern Sie Ihre Web-Präsenz mit diesem konfigurierbaren Theme.
 
-![Urban template screenshot](_screenshot.png)
+![Urban template screenshot](/static/images/saarcode_1024x875.png)
 
 Urban wurde von [CloudCannon](https://cloudcannon.com/) erstellt, einer Jamstack-Plattform für Teams.
 

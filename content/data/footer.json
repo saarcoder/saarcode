@@ -28,15 +28,15 @@
 		"title": "Netzwerke",
 		"links": [
 			{
-				"name": "Twitter",
-				"link": "https://twitter.com/alex_kimoto",
-				"social_icon": "Twitter",
-				"new_window": true
-			},
-			{
 				"name": "GitHub",
 				"link": "https://github.com/saarcode",
 				"social_icon": "GitHub",
+				"new_window": true
+			},
+			{
+				"name": "Twitter",
+				"link": "https://twitter.com/alex_kimoto",
+				"social_icon": "Twitter",
 				"new_window": true
 			},
 			{

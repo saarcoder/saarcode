@@ -37,7 +37,7 @@
     <div class="container">
       <p class="editor-link">
         <a href="cloudcannon:collections/content/staff-members/" class="btn"
-          ><strong>&#9998;</strong>Mitarbeiter verwalten</a
+          ><strong>&#9998;</strong>Mitarbeiter bearbeiten</a
         >
       </p>
       <ul class="image-grid">

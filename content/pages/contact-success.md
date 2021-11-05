@@ -1,6 +1,6 @@
 ---
-title: Contact Success
-heading: Thanks for getting in touch
-subtitle: We'll get back to you as soon as possible
+title: Danke für Ihre Anfrage
+heading: Danke, dass Sie Kontakt zu uns aufgenommen haben
+subtitle: Wir melden uns baldmöglichst bei Ihnen!
 description:
 ---

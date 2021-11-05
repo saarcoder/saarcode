@@ -53,7 +53,7 @@
         </div>
       </div>
       <p>
-        <a href={pageDetails.external_url}>View {pageDetails.name} &rarr;</a>
+        <a href={pageDetails.external_url}>{pageDetails.name} ansehen &rarr;</a>
       </p>
     </div>
   </section>

@@ -35,7 +35,7 @@
     <div class="container">
       <p class="editor-link">
         <a href="cloudcannon:collections/content/clients/" class="btn"
-          ><strong>&#9998;</strong> Manage Clients</a
+          ><strong>&#9998;</strong> Beispielseiten bearbeiten</a
         >
       </p>
       <ul class="image-grid">

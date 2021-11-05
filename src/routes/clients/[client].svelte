@@ -35,7 +35,7 @@
 
 <Page {pageDetails}>
   <h2 slot="heading">
-    <a href="{siteData.baseurl}/portfolio">{portfolio.heading}</a>
+    <a href="{siteData.baseurl}/referenzen">{portfolio.heading}</a>
     <span>/ {pageDetails.name}</span>
   </h2>
   <section class="diagonal">

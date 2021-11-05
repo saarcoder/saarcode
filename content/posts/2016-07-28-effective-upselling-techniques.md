@@ -5,7 +5,7 @@ date: 2016-07-28T00:00:00Z
 categories:
   - sales
   - tips
-author_staff_member: zack
+author_staff_member: alex
 show_comments: true
 ---
 

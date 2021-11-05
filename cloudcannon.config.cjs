@@ -30,7 +30,7 @@ module.exports = {
     'staff_members': {
       path: 'content/staff-members',
       _enabled_editors: ['data'],
-      name: 'Staff Members'
+      name: 'Mitarbeiter'
     },
     posts: {
       path: 'content/posts',

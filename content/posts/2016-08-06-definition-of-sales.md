@@ -4,7 +4,7 @@ description:
 date: 2016-08-06
 categories:
   - sales
-author_staff_member: anna
+author_staff_member: alex
 show_comments: true
 ---
 

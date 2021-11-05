@@ -1,6 +1,6 @@
 ---
 title: Blog
-heading: Blog
-subtitle: Keep up with the latest news.
+heading: Fresh press
+subtitle: Neu bei Saarcode
 description:
 ---

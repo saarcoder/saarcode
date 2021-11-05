@@ -40,7 +40,7 @@
         <p>{@html pageDetails.portfolio_description_html}</p>
 
         <p>
-          <a href={`${siteData.baseurl}/portfolio`}
+          <a href={`${siteData.baseurl}/referenzen`}
             >{pageDetails.portfolio_call_to_action} &rarr;</a
           >
         </p>

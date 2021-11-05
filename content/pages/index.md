@@ -5,8 +5,7 @@ subtext_html: >-
   Minimierte Angriffsfl&auml;chen und Hostingkosten durch Flat-File-Architektur.
   Sagen Sie 👋 zum JAM-Stack.</p>
 description:
-portfolio_heading: 'Unser Ziel:'
+portfolio_heading: "Unser Ziel:"
 portfolio_description_html: <p>100% zufriedene Kunden</p>
-portfolio_call_to_action: Portfolio ansehen
+portfolio_call_to_action: Referenzen ansehen
 ---
-

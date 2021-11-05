@@ -1,6 +1,6 @@
 <script context="module">
   export async function load({ fetch }) {
-    const res = await fetch("portfolio.json");
+    const res = await fetch("referenzen.json");
 
     if (res.ok) {
       return {

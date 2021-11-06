@@ -20,7 +20,7 @@
   <div class="container">
     <h1 class="company-name">
       <a href="/">
-        <img src="/images/jamminit.svg" alt="Urban" width="250" />
+        <img src="/images/jamminit.svg" alt="Saarcode" width="250" />
       </a>
     </h1>
     <nav>

@@ -97,7 +97,7 @@
         <label for="message">Nachricht</label>
         <textarea name="message" id="message" placeholder="Ihre Nachricht..." />
 
-        <input type="submit" value="Nachricht senden" />
+        <input type="submit" value="Anfrage senden" />
       </form>
     </div>
   </section>

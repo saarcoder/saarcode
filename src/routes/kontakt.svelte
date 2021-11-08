@@ -25,8 +25,6 @@
 
   export let pageDetails;
 
-  const RECAPTCHA_SITE_KEY = import.meta.env.VITE_RECAPTCHA_SITE_KEY;
-
   let mapEl;
 
   onMount(async () => {
@@ -62,7 +60,10 @@
         method="post"
         class="contact-form"
       >
-        <div class="g-recaptcha" data-sitekey={RECAPTCHA_SITE_KEY} />
+        <div
+          class="g-recaptcha"
+          data-sitekey="6Ld-oR8dAAAAAObT7S3G1EVs-3hRp08YdXAHfF4g"
+        />
         <input type="hidden" name="_to" value={company.contact_email_address} />
         <input type="text" name="_gotcha" />
 

@@ -60,10 +60,6 @@
         method="post"
         class="contact-form"
       >
-        <div
-          class="g-recaptcha"
-          data-sitekey="6Ld-oR8dAAAAAObT7S3G1EVs-3hRp08YdXAHfF4g"
-        />
         <input type="hidden" name="_to" value={company.contact_email_address} />
         <input type="text" name="_gotcha" />
 
@@ -110,6 +106,10 @@
         <label for="message">Nachricht</label>
         <textarea name="message" id="message" placeholder="Ihre Nachricht..." />
         <input type="submit" value="Anfrage senden" />
+        <div
+          class="g-recaptcha"
+          data-sitekey="6LfzeR8dAAAAAG8TmogzKRW63Ka8bCMcQZM8da5r"
+        />
       </form>
     </div>
   </section>

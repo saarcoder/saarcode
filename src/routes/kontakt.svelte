@@ -90,7 +90,6 @@
     <div class="container">
       <form
         on:submit|preventDefault={handleSubmit}
-        action={`${siteData.baseurl}/contact-success`}
         method="post"
         class="contact-form"
         id="contact-form"

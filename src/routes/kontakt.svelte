@@ -92,7 +92,7 @@
       <form
         on:submit|preventDefault={handleSubmit}
         method="post"
-        action={`${siteData.baseurl}/`}
+        action={`${siteData.baseurl}/contact-success`}
         class="contact-form"
         id="contact-form"
       >

@@ -85,12 +85,12 @@
           </div>
         </div>
 
-        <label for="email">E-Mail-Adresse</label>
+        <label for="email">E-Mail</label>
         <input
           type="email"
           name="email"
           id="email"
-          placeholder="email@beispiel.de"
+          placeholder="Ihre-Email@Adresse.de"
           required
         />
 

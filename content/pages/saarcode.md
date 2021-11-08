@@ -1,7 +1,7 @@
 ---
 title: Saarcode
-heading: Alle Infos
+heading: Saarcode
 subtitle: >-
-  lorem-ipsum
+  made by
 description:
 ---

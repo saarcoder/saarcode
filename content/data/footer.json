@@ -3,16 +3,12 @@
 		"title": "Seiten",
 		"links": [
 			{
-				"name": "Home",
+				"name": "Start",
 				"link": "/"
 			},
 			{
 				"name": "Referenzen",
 				"link": "/referenzen"
-			},
-			{
-				"name": "Blog",
-				"link": "/blog"
 			},
 			{
 				"name": "Saarcode",

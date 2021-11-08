@@ -106,10 +106,6 @@
         <label for="message">Nachricht</label>
         <textarea name="message" id="message" placeholder="Ihre Nachricht..." />
         <input type="submit" value="Anfrage senden" />
-        <div
-          class="g-recaptcha"
-          data-sitekey="6LfzeR8dAAAAAG8TmogzKRW63Ka8bCMcQZM8da5r"
-        />
       </form>
     </div>
   </section>

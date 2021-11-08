@@ -25,6 +25,8 @@
 
   export let pageDetails;
 
+  const RECAPTCHA_SITE_KEY = import.meta.env.VITE_RECAPTCHA_SITE_KEY;
+
   let mapEl;
 
   onMount(async () => {
@@ -60,6 +62,7 @@
         method="post"
         class="contact-form"
       >
+        <div class="g-recaptcha" data-sitekey={RECAPTCHA_SITE_KEY} />
         <input type="hidden" name="_to" value={company.contact_email_address} />
         <input type="text" name="_gotcha" />
 
@@ -84,15 +87,16 @@
             />
           </div>
         </div>
-
-        <label for="email">E-Mail</label>
-        <input
-          type="text"
-          name="_replyto"
-          id="email"
-          placeholder="Ihre-Email@Adresse.de"
-          required
-        />
+        <div>
+          <label for="email">E-Mail</label>
+          <input
+            type="text"
+            name="_replyto"
+            id="email"
+            placeholder="Ihre-Email@Adresse.de"
+            required
+          />
+        </div>
         <div>
           <label for="betreff">Betreff</label>
           <select name="_subject" id="betreff">
@@ -104,7 +108,6 @@
 
         <label for="message">Nachricht</label>
         <textarea name="message" id="message" placeholder="Ihre Nachricht..." />
-
         <input type="submit" value="Anfrage senden" />
       </form>
     </div>

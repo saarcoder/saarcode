@@ -27,6 +27,32 @@
 
   let mapEl;
 
+  const handleSubmit = () => {
+    if (grecaptcha) {
+      var recaptchaResponse = grecaptcha.getResponse();
+      if (!recaptchaResponse) {
+        // reCAPTCHA not clicked yet
+        return false;
+      }
+    }
+
+    var request = new XMLHttpRequest();
+
+    request.addEventListener("load", function () {
+      if (request.status === 302) {
+        // CloudCannon redirects on success
+        // It worked
+      }
+    });
+
+    request.open(formEl.method, formEl.action);
+    request.setRequestHeader(
+      "Content-Type",
+      "application/x-www-form-urlencoded"
+    );
+    request.send(getFormDataString(formEl));
+  };
+
   onMount(async () => {
     onCloudCannonChanges((newProps) => (pageDetails = newProps));
 
@@ -63,32 +89,6 @@
 
       return data.join("&");
     }
-
-    const handleSubmit = () => {
-      if (grecaptcha) {
-        var recaptchaResponse = grecaptcha.getResponse();
-        if (!recaptchaResponse) {
-          // reCAPTCHA not clicked yet
-          return false;
-        }
-      }
-
-      var request = new XMLHttpRequest();
-
-      request.addEventListener("load", function () {
-        if (request.status === 302) {
-          // CloudCannon redirects on success
-          // It worked
-        }
-      });
-
-      request.open(formEl.method, formEl.action);
-      request.setRequestHeader(
-        "Content-Type",
-        "application/x-www-form-urlencoded"
-      );
-      request.send(getFormDataString(formEl));
-    };
   });
 
   onDestroy(async () => {

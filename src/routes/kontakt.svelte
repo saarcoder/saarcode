@@ -87,12 +87,20 @@
 
         <label for="email">E-Mail</label>
         <input
-          type="email"
-          name="email"
+          type="text"
+          name="_replyto"
           id="email"
           placeholder="Ihre-Email@Adresse.de"
           required
         />
+        <div>
+          <label for="betreff">Betreff</label>
+          <select name="_subject" id="betreff">
+            <option>allg. Anfrage</option>
+            <option>Kommentar</option>
+            <option>Supportanfrage</option>
+          </select>
+        </div>
 
         <label for="message">Nachricht</label>
         <textarea name="message" id="message" placeholder="Ihre Nachricht..." />

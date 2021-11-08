@@ -92,6 +92,7 @@
       <form
         on:submit|preventDefault={handleSubmit}
         method="post"
+        action={`${siteData.baseurl}/`}
         class="contact-form"
         id="contact-form"
       >

@@ -56,6 +56,7 @@
       "Content-Type",
       "application/x-www-form-urlencoded"
     );
+    console.log(getFormDataString(formEl));
     request.send(getFormDataString(formEl));
   };
 

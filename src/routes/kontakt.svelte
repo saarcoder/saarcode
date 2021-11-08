@@ -26,16 +26,22 @@
   export let pageDetails;
 
   let mapEl;
+  let formEl;
 
-  const handleSubmit = () => {
-    if (grecaptcha) {
-      var recaptchaResponse = grecaptcha.getResponse();
-      if (!recaptchaResponse) {
-        // reCAPTCHA not clicked yet
-        return false;
-      }
+  // Helper function to get form data in the supported format
+  function getFormDataString(formEl) {
+    var formData = new FormData(formEl),
+      data = [];
+
+    for (var keyValue of formData) {
+      data.push(
+        encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1])
+      );
     }
 
+    return data.join("&");
+  }
+  const handleSubmit = () => {
     var request = new XMLHttpRequest();
 
     request.addEventListener("load", function () {
@@ -71,24 +77,7 @@
         zoom: pageDetails.map.zoom,
       });
     }
-
-    var formEl = document.getElementById("contact-form");
-
-    // Helper function to get form data in the supported format
-    function getFormDataString(formEl) {
-      var formData = new FormData(formEl),
-        data = [];
-
-      for (var keyValue of formData) {
-        data.push(
-          encodeURIComponent(keyValue[0]) +
-            "=" +
-            encodeURIComponent(keyValue[1])
-        );
-      }
-
-      return data.join("&");
-    }
+    formEl = document.getElementById("contact-form");
   });
 
   onDestroy(async () => {

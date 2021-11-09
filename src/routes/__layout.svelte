@@ -71,11 +71,6 @@
           <h2>{companyData.site_title}</h2>
         </li>
         <li>{companyData.description}</li>
-        <li>
-          <a href={`${siteData.baseurl}/feed.xml`}
-            ><Icon icon="RSS" /> Mit RSS abonnieren</a
-          >
-        </li>
       </ul>
     </div>
   </div>

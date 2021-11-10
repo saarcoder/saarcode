@@ -48,6 +48,10 @@
       if (request.status === 302) {
         // CloudCannon redirects on success
         // It worked
+      } else {
+        alert(
+          "Nachricht konnte leider nicht verschickt werden. Entwickler wurde informiert."
+        );
       }
     });
 
@@ -56,7 +60,6 @@
       "Content-Type",
       "application/x-www-form-urlencoded"
     );
-    console.log(getFormDataString(formEl));
     request.send(getFormDataString(formEl));
   };
 

@@ -36,7 +36,7 @@
   <section class="diagonal patterned">
     <div class="container halves">
       <div>
-        <h3>{pageDetails.portfolio_heading}</h3>
+        <h2>{pageDetails.portfolio_heading}</h2>
         <p>{@html pageDetails.portfolio_description_html}</p>
 
         <p>

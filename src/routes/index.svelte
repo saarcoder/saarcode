@@ -103,10 +103,10 @@
       <div>
         <h3>Neueste Software, beste Perfomance</h3>
         <p>
-          Als junge Agentur können wir uns ganz auf die neuesten und
-          performantesten Technologien fokussieren. Entdecken auch Sie die
-          Vorteile einer schlanken, modularen Architektur und machen Sie
-          Cloud-Editing zu einem Kreativ-Erlebnis.
+          Als junge Agentur können wir uns ganz auf neue und performante
+          Technologien fokussieren. Entdecken auch Sie die Vorteile einer
+          schlanken, modularen Architektur und Cloud-Editing als
+          Kreativ-Erlebnis.
         </p>
       </div>
     </div>

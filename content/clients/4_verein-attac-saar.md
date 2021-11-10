@@ -1,6 +1,6 @@
 ---
 name: Attac Saar
-subtitle: Jekyll-Template, Git-basiertes CMS
+subtitle: Jekyll-SSG, Git-basiertes CMS
 description:
 external_url: https://github.com/saarcode/attac-saarland
 image_path: /images/clients/attac-saarland_1024x874.png

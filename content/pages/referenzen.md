@@ -1,8 +1,7 @@
 ---
 title: Referenzen
-heading: Sie sitzen auf dem Fahrersitz
+heading: Lassen Sie sich nicht aufhalten
 subtitle: >-
-  Verabschieden Sie sich von langwierigen Mitarbeiter-Einweisungen in komplexe
-  Backend-Systeme und der Angst vor Datenbank-Hackern.
+  Direkt loslegen statt langwieriger Mitarbeiter-Einweisungen. Git-basierter Workflow für kontinuierliche Mikro-Deploys. Layouts von uns nach Ihren Wünschen.
 description:
 ---

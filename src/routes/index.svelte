@@ -90,7 +90,7 @@
           <li>
             <img src="/images/svelte-logo.svg" width="120" alt="Jekyll Logo" />
           </li>
-          <li>
+          <li style="grid-column: 1 / 3;">
             <img
               src="/images/Octocat.png"
               width="200"

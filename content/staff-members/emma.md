@@ -1,7 +1,7 @@
 ---
-name: Emma
+name: Emma Freigeist
 description:
-position: Freigeist
+position: CodingCat
 image_path: /images/Emma.png
 twitter: EmmaFreigeist
 post:

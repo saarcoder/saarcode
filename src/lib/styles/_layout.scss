@@ -238,6 +238,13 @@ section {
   text-align: center;
 }
 
+.image-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  grid-gap: 0.5rem 0;
+}
+
 .patterned {
   background: #222 url($pattern);
 

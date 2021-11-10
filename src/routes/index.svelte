@@ -65,17 +65,37 @@
         <ul class="image-list">
           <li>
             <img
+              src="/images/netlify_logomark.svg"
+              width="125"
+              class="netlify-logo"
+              alt="Netlify Logo"
+            />
+          </li>
+          <li>
+            <img
               src="/images/cloudcannon-logo-blue.svg"
-              width="250"
+              width="175"
               class="cloudcannon-logo"
               alt="CloudCannon Logo"
             />
           </li>
           <li>
             <img
-              src="/images/svelte-horizontal.png"
-              width="300"
-              alt="Jekyll Logo"
+              src="/images/stackbit-monogram.svg"
+              width="125"
+              class="stackbit-logo"
+              alt="Stackbit Logo"
+            />
+          </li>
+          <li>
+            <img src="/images/svelte-logo.svg" width="120" alt="Jekyll Logo" />
+          </li>
+          <li>
+            <img
+              src="/images/Octocat.png"
+              width="200"
+              class="github-logo"
+              alt="GitHub Logo"
             />
           </li>
         </ul>
@@ -92,9 +112,3 @@
     </div>
   </section>
 </Page>
-
-<style>
-  img.cloudcannon-logo {
-    margin-bottom: 40px;
-  }
-</style>

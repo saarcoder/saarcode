@@ -243,6 +243,12 @@ section {
   grid-template-columns: 1fr 1fr;
   align-items: center;
   grid-gap: 1rem 0;
+  margin-bottom: 3.5rem;
+
+  @media #{$desktop} {
+    margin-right: 2rem;
+    margin-bottom: 0;
+  }
 }
 
 .patterned {

@@ -1,5 +1,5 @@
 ---
-title: Verpassen Sie den 20ern einen Neustart
+title: Neustart für die 20er
 subtext_html: >-
   <p>Sagen Sie 👋 zum JAM-Stack: Volle Kontrolle &uuml;ber den Tech-Stack. Schnelles On-Screen-Editing. Flat-File-Architektur für weniger Angriffsfl&auml;chen und Hostingkosten.
   </p>

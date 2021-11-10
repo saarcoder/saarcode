@@ -88,7 +88,12 @@
             />
           </li>
           <li>
-            <img src="/images/svelte-logo.svg" width="120" alt="Jekyll Logo" />
+            <img
+              src="/images/svelte-logo.svg"
+              width="120"
+              alt="Svelte Logo"
+              class="svelte-logo"
+            />
           </li>
           <li style="grid-column: 1 / 3;">
             <img

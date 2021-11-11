@@ -36,6 +36,12 @@
 				"new_window": true
 			},
 			{
+				"name": "StackOverflow",
+				"link": "https://stackoverflow.com/users/4026177/alex-kimoto",
+				"social_icon": "StackOverflow",
+				"new_window": true
+			},
+			{
 				"name": "SoundCloud",
 				"link": "https://soundcloud.com/hintergrund-musik",
 				"social_icon": "SoundCloud",

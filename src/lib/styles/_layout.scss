@@ -264,3 +264,18 @@ section {
     color: #fefefe;
   }
 }
+
+@media screen and (max-width: 768px) {
+  h2,
+  section.hero h2 {
+    font-size: 2.5rem;
+  }
+
+  p,
+  section.hero p,
+  a,
+  address,
+  ul {
+    font-size: 1.38rem;
+  }
+}

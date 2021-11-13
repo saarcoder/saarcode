@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 heading: Nehmen Sie Kontakt auf
-subtitle: Gewinnen Sie Vorsprung durch schnelle Reaktionszeiten und volle Kontrolle über ihren Tech-Stack.
+subtitle: Bleiben Sie immer am Ball durch einen schnelleren Workflow und holen Sie sich die Kontrolle über Ihre Seite zurück.
 description:
 map:
   latitude: 49.250690

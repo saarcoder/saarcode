@@ -1,5 +1,5 @@
 ---
-name: Relaunch Gastgeber Mainpage
+name: Relaunch Gastgeber Landing-Page
 subtitle: Polymer SPA, Service-Worker
 description: Web Components, Service-Worker
 external_url: http://www.3zak.com/

@@ -177,7 +177,7 @@ section {
     margin: 20px;
     border-radius: 5px;
     text-align: left;
-    border: 1px solid $brand-color;
+    border: 1px solid $highlight-color;
     line-height: 0;
 
     @media #{$tablet} {
@@ -222,7 +222,7 @@ section {
 
   .name {
     font-size: 1.3rem;
-    color: $brand-color;
+    color: $highlight-color;
   }
 
   .position {

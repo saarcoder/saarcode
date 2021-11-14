@@ -110,7 +110,7 @@
         <p>
           Als junge Agentur können wir uns ganz auf neue und performante
           Technologien fokussieren. Entdecken auch Sie die Vorteile einer
-          schlanken, modularen Architektur und Cloud-Editing als
+          schlanken, modularen Architektur und erleben Sie Cloud-Editing als
           Kreativ-Erlebnis.
         </p>
       </div>

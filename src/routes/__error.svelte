@@ -16,7 +16,7 @@
 <Page pageDetails={{ title: "Nicht gefunden" }}>
   <section class="diagonal">
     <div class="container">
-      <p>Die angeforderte Seite existiert nicht</p>
+      <p>Die angeforderte Seite kann leider nicht geladen werden.</p>
     </div>
   </section>
 </Page>

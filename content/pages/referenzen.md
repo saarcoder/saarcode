@@ -1,7 +1,7 @@
 ---
 title: Referenzen
-heading: Lassen Sie sich nicht aufhalten
+heading: Schluss mit den Handbüchern
 subtitle: >-
-  Einfach loslegen statt lange Handbücher lesen. Git-basierter Workflow für kontinuierliche Mikro-Deploys. Hot-reloading Live-Previews. Layouts von uns nach Ihren Wünschen.
+  Richtet sich die Technik nach dem Menschen, findet man sich sofort zurecht. Im Hintergrund: Git-basierter Workflow für kontinuierliche Mikro-Deploys, Datensicherheit und Zuschaltbarkeit von Entwicklern Ihrer Wahl.
 description:
 ---

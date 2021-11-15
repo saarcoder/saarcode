@@ -75,12 +75,7 @@ section {
 
   &.hero {
     color: #ffffff;
-    background: linear-gradient(
-      160deg,
-      $brand-color,
-      60%,
-      $secondary-brand-color
-    );
+    background: $highlight-color;
     text-align: left;
     margin-top: -100px;
     padding-top: 250px;
@@ -111,10 +106,10 @@ section {
 }
 
 .button {
-  padding: 13px 38px;
+  padding: 10px 25px;
   border-radius: 3px;
   display: inline-block;
-  color: $brand-color;
+  color: $highlight-color;
   text-decoration: none;
   cursor: pointer;
   margin: 20px 0 0 0;

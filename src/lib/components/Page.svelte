@@ -69,7 +69,9 @@
     {/if}
     {#if withContactButton}
       <p>
-        <a class="button alt" href={`${siteData.baseurl}/kontakt`}>Kontakt</a>
+        <a class="button alt" href={`${siteData.baseurl}/kontakt`}
+          >Mehr erfahren</a
+        >
       </p>
     {/if}
   </div>

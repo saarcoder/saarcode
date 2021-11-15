@@ -1,7 +1,7 @@
 ---
 title: Neustart für die 20er
 subtext_html: >-
-  <p>Sagen Sie 👋 zum JAM-Stack und halten Sie alle Hebel selbst in der Hand. Editieren Sie Texte schnell und einfach on-screen. Halten Sie mit Flat-Files die Angriffsfl&auml;chen klein. Verringern Sie dauerhaft Ihre Hostingkosten. 
+  <p>Sagen Sie 👋 zum JAM-Stack und halten Sie alle Hebel selbst in der Hand. Editieren Sie Texte schnell und einfach on-screen. Halten Sie mit Flat-Files die Angriffsfl&auml;chen klein und verringern Sie Ihre Hostingkosten. 
   </p>
 description:
 portfolio_heading: "Unser Ziel:"

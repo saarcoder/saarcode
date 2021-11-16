@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 heading: Nehmen Sie Kontakt auf
-subtitle: Bleiben Sie am Ball mit einem schnelleren Workflow und holen Sie sich die volle Kontrolle über Ihre Seite.
+subtitle: Bleiben Sie mit einem schnellen Workflow immer am Ball und holen Sie sich die volle Kontrolle über Ihre Seite.
 description:
 map:
   latitude: 49.250690

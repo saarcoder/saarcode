@@ -1,8 +1,8 @@
 ---
-title: Sagen Sie 👋 zum JAM-Stack
+title: "Sagen Sie 👋 zum JAM-Stack"
 subtext_html: >-
-  <p>Alle Hebel selbst in der Hand halten. Texte schnell und einfach on-screen editieren. Mit Flat Files die Angriffsfl&auml;chen verkleinern und Nutzungsgebühren für PHP sparen.</p>
-  <p>Geben Sie den 20ern einen Neustart!</p>
+  <p>Alle Hebel selbst in der Hand halten. Texte einfach on-screen editieren. Mit Flat Files Angriffsfl&auml;chen verkleinern und die Nutzungsgebühren für PHP sparen.</p>
+  <p>Schicken Sie Ihr altes Setup in Rente und geben Sie den 20ern einen Neustart!</p>
 description:
 portfolio_heading: "Unser Ziel:"
 portfolio_description_html: <p>100% zufriedene Kunden</p>

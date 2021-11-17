@@ -106,7 +106,7 @@
         </ul>
       </div>
       <div>
-        <h3>Neueste Software, beste Perfomance</h3>
+        <h3>Neueste Software, beste Performance</h3>
         <p>
           Als junge Agentur können wir uns ganz auf neue und performante
           Technologien fokussieren. Entdecken auch Sie die Vorteile einer
